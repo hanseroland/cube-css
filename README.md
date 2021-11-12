@@ -2,4 +2,4 @@
 Design cube mobile avec css
 # Visuel
 
-# ![demarrage](https://github.com/hanseroland/cube-css/blob/main/cube.png)
+# ![demarrage](https://github.com/hanseroland/cube-css/blob/main/cubes.png)
